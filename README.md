@@ -4,7 +4,7 @@
 
 An open Agent Skill by **Loubak Francis Fequet**, AI consultant and trainer in Djibouti.
 
-[Download the ready-to-import ZIP](https://github.com/LoubakInnovations/humanizer-linkedin/raw/refs/heads/main/dist/humanizer-linkedin-v1.0.0.zip) · [Inspect SKILL.md](SKILL.md) · [Lire en français](#version-française) · [About the author](#author)
+[Download the ready-to-import ZIP](https://github.com/LoubakInnovations/humanizer-linkedin/releases/download/v1.0.0/humanizer-linkedin-v1.0.0.zip) · [Inspect SKILL.md](SKILL.md) · [Lire en français](#version-française) · [About the author](#author)
 
 `Agent Skills` · `English and French` · `No skill-specific API key` · `MIT`
 
@@ -60,7 +60,7 @@ These punctuation choices are editorial preferences, not proof that a text was A
 
 ### Ready-to-import ZIP
 
-**[Download humanizer-linkedin v1.0.0](https://github.com/LoubakInnovations/humanizer-linkedin/raw/refs/heads/main/dist/humanizer-linkedin-v1.0.0.zip)**
+**[Download humanizer-linkedin v1.0.0](https://github.com/LoubakInnovations/humanizer-linkedin/releases/download/v1.0.0/humanizer-linkedin-v1.0.0.zip)**
 
 The archive contains one `humanizer-linkedin/` folder with `SKILL.md`, the editorial references, interface metadata and attribution. Import it into a product that supports custom skills, when that feature is available for your account. Menus and permissions vary by product and plan.
 
@@ -141,7 +141,7 @@ The [MIT licence](LICENSE) allows reuse and modification with the notice retaine
 
 Un skill ouvert de **Loubak Francis Fequet**, consultant et formateur en intelligence artificielle à Djibouti.
 
-[Télécharger le ZIP prêt à importer](https://github.com/LoubakInnovations/humanizer-linkedin/raw/refs/heads/main/dist/humanizer-linkedin-v1.0.0.zip) · [Lire SKILL.md](SKILL.md) · [Revenir à l'anglais](#humanizer-linkedin) · [Découvrir l'auteur](#auteur)
+[Télécharger le ZIP prêt à importer](https://github.com/LoubakInnovations/humanizer-linkedin/releases/download/v1.0.0/humanizer-linkedin-v1.0.0.zip) · [Lire SKILL.md](SKILL.md) · [Revenir à l'anglais](#humanizer-linkedin) · [Découvrir l'auteur](#auteur)
 
 Humanizer LinkedIn révise un brouillon en trois passes : repérer les tics, réécrire le post, puis rendre compte de chaque modification utile. Il vise une voix personnelle et naturelle sans inventer de faits, d'anecdotes, de statistiques ou de résultats.
 
@@ -193,7 +193,7 @@ Ces choix de ponctuation sont des préférences éditoriales, pas des preuves d'
 
 ### Télécharger ou installer
 
-**[Télécharger humanizer-linkedin v1.0.0](https://github.com/LoubakInnovations/humanizer-linkedin/raw/refs/heads/main/dist/humanizer-linkedin-v1.0.0.zip)**
+**[Télécharger humanizer-linkedin v1.0.0](https://github.com/LoubakInnovations/humanizer-linkedin/releases/download/v1.0.0/humanizer-linkedin-v1.0.0.zip)**
 
 L'archive contient un seul dossier `humanizer-linkedin/` avec `SKILL.md`, les références éditoriales, les métadonnées d'interface et l'attribution. Importez-la dans une interface acceptant les skills personnalisés, si cette fonction est disponible sur votre compte.
 
