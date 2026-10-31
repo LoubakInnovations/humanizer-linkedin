@@ -1,0 +1,14 @@
+interface:
+  display_name: humanizer-linkedin
+  short_description: Humaniser vos posts LinkedIn sans changer les faits
+  default_prompt: 'Utilise $humanizer-linkedin pour rendre ce brouillon LinkedIn naturel,
+    fidèle aux faits et à ma voix : [coller le brouillon].'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please credit Loubak Francis Fequet when reusing this skill implementation."
+type: software
+title: "humanizer-linkedin"
+authors:
+  - family-names: "Fequet"
+    given-names: "Loubak Francis"
+    affiliation: "Cabinet Loubak Innovations"
+    website: "https://loubakinnovations.com/"
+version: "1.0.0"
+date-released: "2026-10-31"
+license: MIT
+repository-code: "https://github.com/LoubakInnovations/humanizer-linkedin"
+abstract: "A French and English Agent Skill for editing LinkedIn drafts naturally while preserving facts, names, numbers, links, attribution and uncertainty."
+keywords:
+  - "agent-skills"
+  - "linkedin"
+  - "humanizer"
+  - "writing"
+  - "french"
+  - "english"
+  - "Loubak Francis Fequet"
